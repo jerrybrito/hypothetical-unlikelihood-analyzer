@@ -1,0 +1,2 @@
+# Requires: forgotten-postponement
+# (Not available on PyPI)
